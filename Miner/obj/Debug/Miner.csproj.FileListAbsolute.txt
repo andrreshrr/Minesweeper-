@@ -1,0 +1,15 @@
+D:\VS\Miner\Miner\bin\Debug\Miner.exe.config
+D:\VS\Miner\Miner\bin\Debug\Miner.exe
+D:\VS\Miner\Miner\bin\Debug\Miner.pdb
+D:\VS\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+D:\VS\Miner\Miner\obj\Debug\MainWindow.g.cs
+D:\VS\Miner\Miner\obj\Debug\App.g.cs
+D:\VS\Miner\Miner\obj\Debug\Miner_MarkupCompile.cache
+D:\VS\Miner\Miner\obj\Debug\Miner_MarkupCompile.lref
+D:\VS\Miner\Miner\obj\Debug\MainWindow.baml
+D:\VS\Miner\Miner\obj\Debug\Miner.g.resources
+D:\VS\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\VS\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+D:\VS\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+D:\VS\Miner\Miner\obj\Debug\Miner.exe
+D:\VS\Miner\Miner\obj\Debug\Miner.pdb
