@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Miner"
-        mc:Ignorable="d" Height="916" Width="963.972" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="e48e0a9b226c637.png" Title="Combat_Engineer">
+        mc:Ignorable="d" Height="916" Width="963.972" WindowStartupLocation="CenterScreen" Icon="e48e0a9b226c637.png" Title="Combat_Engineer">
     <Grid>
         <Image x:Name="image" Margin="113,132,108,74" Source="6RpjmbKMojE.jpg"/>
 
